@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:tomasparzen/tomasparzen.github.io.git
+[submodule "tomasparzen.github.io"]
+	path = tomasparzen.github.io
+	url = git@github-parzen:tomasparzen/tomasparzen.github.io.git
