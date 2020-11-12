@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Tomas Parzen'
-SITENAME = 'Locura y Pollo'
+SITENAME = 'debris'
 SITEURL = ''
 
 PATH = 'content'
