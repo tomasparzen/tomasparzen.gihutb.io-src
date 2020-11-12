@@ -1,12 +1,14 @@
-Title: Hello (blog's) world
-Slug: my-first-post
-Language: english
-Category: ideas
-Tags: ideas, firstCommit
-Author: TomasParzen
-Date: 2018-09-20 15:25:06
+Hello (blog's) world
+====================
+
+:slug: my-first-post
+:lang: english
+:category: intentions
+:author: Tomas Parzen
+:date: 2018-09-20 15:25:06
 
 Dear everybody,
+
 it is time to start.
 
 It is time I try to put some order nto my ideas and make them available to others, and to me of tomorrow.
@@ -33,5 +35,4 @@ Thanks everybody for a occasional support,
 
 your
 
-TomasParzen
-
+Tomas Parzen
